@@ -2,8 +2,7 @@
 Empresa constructora, laboratorios y formuladora
 <div align="center">
 
-<!-- LOGO: reemplaza la URL de abajo por la ruta/enlace de tu logo -->
-<img src="https://via.placeholder.com/220x220.png?text=LOGO+MANCONS" alt="Logo MANCONS S.A.C." width="180"/>
+<img src="https://drive.google.com/file/d/1tdgrsJcCkhrhoofzxQF3N6ra7H5GALig/view?usp=sharing" alt="Logo MANCONS S.A.C." width="180"/>
 
 # MANCONS S.A.C.
 ### Ingeniería Civil · Consultoría · Diseño · Ejecución de Obras
