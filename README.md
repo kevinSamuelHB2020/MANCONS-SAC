@@ -17,14 +17,12 @@ Empresa constructora, laboratorios y formuladora
 
 ## 📽️ Video institucional
 
-<!-- Reemplaza el enlace de abajo por el video de YouTube / Drive / etc. -->
+<!-- video de YouTube / Drive / etc. -->
 <div align="center">
 
 [![Ver video institucional](https://img.shields.io/badge/▶️-Ver%20video%20institucional-red?style=for-the-badge)](https://youtu.be/74rlpgoARK8?si=ZEXDk9FvNtXbzq0i)
 
 </div>
-
-> *Aquí podrás incrustar el video institucional de MANCONS S.A.C. (presentación de la empresa, proyectos, equipo, etc.).*
 
 ---
 
